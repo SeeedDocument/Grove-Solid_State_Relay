@@ -3,7 +3,7 @@ title: Grove - Solid State Relay
 category: Actuator
 bzurl: https://www.seeedstudio.com/Grove-Solid-State-Relay-p-1359.html
 oldwikiname: Grove - Solid State Relay
-prodimagename: 113990010%201.jpg
+prodimagename: Grove_Solid_State_Relay_1.jpg
 surveyurl: https://www.research.net/r/Grove_Solid_State_Relay
 sku: 103020004
 ---
@@ -67,7 +67,7 @@ First off, you'll need to connect it to the Arduino like so:
 
 ![](https://github.com/SeeedDocument/Grove-Solid_State_Relay/raw/master/img/Grove_-_SSR2.JPG)
 
-You need upload the below code. Please click here if you do not how to upload.
+You need upload the below code. Please click [here](http://wiki.seeedstudio.com/wiki/Upload_Code) if you do not how to upload.
 
 ```
 /*
@@ -95,7 +95,7 @@ After upload the code, you can see the bulb will light 5s and then turn off for 
 **With Raspberry Pi**
 
 1. You should have got a raspberry pi and a grovepi or grovepi+.
-2. You should have completed configuring the development enviroment, otherwise follow here.
+2. You should have completed configuring the development enviroment, otherwise follow [here](http://wiki.seeedstudio.com/wiki/GrovePi+#Introducing_the_GrovePi.2B).
 3. Connection
   - Plug the sensor to grovepi socket D4 by using a grove cable.
 4. Navigate to the demos' directory:
